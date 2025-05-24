@@ -1,14 +1,11 @@
-# lemay-evs-data
-Code Scripts for "Observational Evidence of the of Electric Vehicles on Impact Local Air Quality in the United States"
+# Lemay-et-al-EVs-Air-Quality
+Data and code Scripts for "Observational Evidence of the of Electric Vehicles on Impact Local Air Quality in the United States" by A.C. Lemay, D.L. Plata, and M.A. Zondlo. Chat GPT was queried for several lines of R code for data formatting and plotting.
 
-CONTACT
-	Name: Amélie Lemay
-	Institution: Massachusetts Institute of Technology
-	Email: alemay@mit.edu
+*Data and code scripts will be made available upon acceptance for publication.*
 
-DATASET INFORMATION
+# Dataset Information
 
-Datasets for each of the following variables were retrieved from the sources listed under 'SOURCES'.
+Datasets for each of the following variables were retrieved from the sources listed under 'Sources'.
 
 1. Air Pollution (1)
 2. Emissions (2)
@@ -22,7 +19,7 @@ All EV registration data by county FIPS code is provided in the csv file EV_data
 Individual state-level data files are compiled to produce EV_data.csv in the R script Datasets.R. 
 Individual state-level files are provided in the folder 'datasets.'
 
-SOURCES
+# Sources
 
 1. 	U.S. Environmental Protection Agency, Air Quality System Data Mart [internet database]. 
 	https://www.epa.gov/outdoor-air-quality-data.
@@ -47,7 +44,7 @@ SOURCES
 11.	South Dakota Department of Revenue. Statistics [datasets]. https://sddor.seamlessdocs.com/sc/statistics/.
 
 
-FILES
+# Files
 
 1. datasets.zip -- Required data
 	a. Datasets from above sources
@@ -63,9 +60,12 @@ FILES
 
 The R scripts must be run sequentially.
 
-SOFTWARE
+# Software
 
 Analysis was performed in R version 4.4.2 using RStudio 2024.12.0+467.
 
-AI USE
+# AI Use
 Chat GPT was queried for several lines of R code for data wrangling and plotting.
+
+# Contact
+Amélie Lemay, Massachusetts Institute of Technology (alemay@mit.edu)
