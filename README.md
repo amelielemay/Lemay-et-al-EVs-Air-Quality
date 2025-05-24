@@ -47,16 +47,16 @@ Individual state-level files are provided in the folder 'datasets.'
 # Files
 
 1. datasets.zip -- Required data
-	a. Datasets from above sources
-	b. near_road_active_12_24.csv (list of near-road NO2 monitoring sites)
-	c. zipToCounty24.csv (ZIP code crosswalk file)
+	* Datasets from above sources
+	* near_road_active_12_24.csv (list of near-road NO2 monitoring sites)
+ 	 * zipToCounty24.csv (ZIP code crosswalk file)
 3. Scripts.zip -- R code scripts
- 	a. Datasets.R -- Loads and formats datasets
- 	b. T_S3_S4.R -- Performs regression analysis of the annual summary data (tables S3-S4)
-	c. T_S5.R -- Performs regression analysis of the daily summary data for seasonal comparisons (table S5)
-	d. T_S6.R -- Performs regression analysis by NOx:VOC ratio (table S6)
-	e. T_S7.R -- Performs regression analysis of near-road and non-near-road sites (table S7)
-	f. T_S8.R -- Performs regression analysis using clustered standard errors (table S8)
+	* Datasets.R -- Loads and formats datasets
+  	* T_S3_S4.R -- Performs regression analysis of the annual summary data (tables S3-S4)
+	* T_S5.R -- Performs regression analysis of the daily summary data for seasonal comparisons (table S5)
+	* T_S6.R -- Performs regression analysis by NOx:VOC ratio (table S6)
+	* T_S7.R -- Performs regression analysis of near-road and non-near-road sites (table S7)
+	* T_S8.R -- Performs regression analysis using clustered standard errors (table S8)
 
 The R scripts must be run sequentially.
 
