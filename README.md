@@ -1,5 +1,5 @@
 # Lemay-et-al-EVs-Air-Quality
-Data and code Scripts for "Observational Evidence of the of Electric Vehicles on Impact Local Air Quality in the United States" by A.C. Lemay, D.L. Plata, and M.A. Zondlo.
+Data and code scripts for "Observational Evidence of the Impact of Electric Vehicles on Local Air Quality in the United States" by A.C. Lemay, D.L. Plata, and M.A. Zondlo.
 
 ## AI Use
 ChatGPT was queried for several lines of R code for data formatting and plotting.
