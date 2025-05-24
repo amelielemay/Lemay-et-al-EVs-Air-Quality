@@ -10,7 +10,7 @@ Data and code Scripts for "Observational Evidence of the of Electric Vehicles on
 ## Files
 *Data and code scripts will be made available upon acceptance for publication.*
 
-## AI Use: 
+## AI Use
 ChatGPT was queried for several lines of R code for data formatting and plotting.
 
 ## Software
